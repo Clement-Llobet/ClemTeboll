@@ -1,4 +1,4 @@
-![Cover](https://github.com/ClemTeboll/ClemTeboll/blob/main/img/cover.jpg)
+![Cover](https://github.com/ClemTeboll/ClemTeboll/main/img/cover.jpg)
 
 Après avoir évolué pendant 6 ans parmi les plus importants groupes d'édition français, j'ai débuté une r**econversion professionnelle.**
 J'ai voulu revenir à un amour que j'ai connu durant mes études : le développement web.
